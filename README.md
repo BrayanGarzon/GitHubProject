@@ -12,3 +12,11 @@ git remote add origin https://github.com/BrayanGarzon/GitHubProject.git
 
 main -> produccion (funciona)
 develop -> contruye todo 
+
+
+- tarea -> project 
+- rama -> feature
+- commit -> trabajo
+- psuh -> FitHub
+- PR -> revision 
+- merge -> integracion 
