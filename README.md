@@ -20,3 +20,5 @@ develop -> contruye todo
 - psuh -> FitHub
 - PR -> revision 
 - merge -> integracion 
+
+# Final de la serie 
